@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119985532925",
+    "project_id": "thugom-c1efd",
+    "storage_bucket": "thugom-c1efd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119985532925:android:79d4f35478f4d10961b394",
+        "android_client_info": {
+          "package_name": "com.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-DJaangkOHq-eogjLGNuUVyN3EHnS3lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
